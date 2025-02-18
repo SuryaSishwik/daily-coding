@@ -37,7 +37,7 @@ a6 -> aaa (already the character 'a' has occurred thrice before)
 Example Input/Output 2:
 
 Input
-x5y2z1x6y326
+x5y2z1x6y3z6
 
 Output:
 xxxxxyyzxyzzzzz
